@@ -51,7 +51,7 @@
   <circle cx="30" cy="28" r="6" fill="#ff5fa2"/>
   <circle cx="50" cy="28" r="6" fill="#ffb3d9"/>
   <circle cx="70" cy="28" r="6" fill="#ff85c0"/>
- 
+
 
   <!-- panel izquierdo -->
   <rect x="30" y="50" width="330" height="440" rx="10" fill="#240f1e" stroke="#ff69b4" stroke-opacity="0.7"/>
