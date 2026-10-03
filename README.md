@@ -1,0 +1,8 @@
+<p align="center"> <img src="./profile-scan.svg" alt="Perfil: estudiante de Ciencia de Datos, Universidad Austral de Rosario" width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/R-ff85c0?style=for-the-badge&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/HTML-ffa6d2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-ff69b4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-ff85c0?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Git-ffa6d2?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </p>
+🎀 Sobre mí
+🎓 Estoy en primer año de la Licenciatura en Ciencia de Datos en la Universidad Austral (Rosario).
+💻 Aprendo Python, R, HTML, CSS, JavaScript, Git y GitHub, y quiero sumar más lenguajes a futuro.
+🎶 Me interesa la música, el arte y el baile, y quiero analizarlos desde los datos para entender cómo funciona todo lo que hay detrás.
+🤝 Estoy abierta a participar en cualquier proyecto: cada uno me suma conocimiento y experiencia.
+🐱 Amo los gatos y el color rosa.
+<p align="center">🐾 Gracias por pasar por mi perfil 🐾</p>
