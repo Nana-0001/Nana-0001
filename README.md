@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./welcome-banner.svg" alt="Welcome to my profile" width="100%">
-</p>
-
-<p align="center">
-  <img src="./profile-scan.svg" alt="Perfil: estudiante de Ciencia de Datos, Universidad Austral de Rosario" width="100%">
+  <img src="./profile-all-in-one.svg" alt="Welcome to my profile. Data Science student, Universidad Austral (Rosario)." width="100%">
 </p>
 
 <p align="center">
@@ -24,4 +20,12 @@
 - 🤝 I'm open to joining any project: each one gives me more knowledge and experience.
 - 🐱 I love cats and the color pink.
 
-<p align="center">🐾 Thanks for visiting my profile 🐾</p>
+## 🎀 Sobre mí
+
+- 🎓 Estoy en **primer año** de la Licenciatura en Ciencia de Datos en la **Universidad Austral (Rosario)**.
+- 💻 Aprendo Python, R, HTML, CSS, JavaScript, Git y GitHub, y quiero sumar más lenguajes a futuro.
+- 🎶 Me interesa la música, el arte y el baile, y quiero analizarlos desde los datos para entender cómo funciona todo lo que hay detrás.
+- 🤝 Estoy abierta a participar en cualquier proyecto: cada uno me suma conocimiento y experiencia.
+- 🐱 Amo los gatos y el color rosa.
+
+<p align="center">🐾 Gracias por pasar por mi perfil. / Thanks for visiting my profile🐾</p>
