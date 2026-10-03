@@ -16,16 +16,12 @@
   <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## 🎀 Sobre mí
+## 🎀 About me
 
-- 🎓 Estoy en **primer año** de la Licenciatura en Ciencia de Datos en la **Universidad Austral (Rosario)**.
-- 💻 Aprendo Python, R, HTML, CSS, JavaScript, Git y GitHub, y quiero sumar más lenguajes a futuro.
-- 🎶 Me interesa la música, el arte y el baile, y quiero analizarlos desde los datos para entender cómo funciona todo lo que hay detrás.
-- 🤝 Estoy abierta a participar en cualquier proyecto: cada uno me suma conocimiento y experiencia.
-- 🐱 Amo los gatos y el color rosa.
+- 🎓 I'm a **first-year** student in the Data Science Bachelor's program at **Universidad Austral (Rosario)**.
+- 💻 I'm learning Python, R, HTML, CSS, JavaScript, Git and GitHub, and I want to pick up more languages in the future.
+- 🎶 I'm into music, art and dance, and I want to analyze them through data to understand everything that works behind the scenes.
+- 🤝 I'm open to joining any project: each one gives me more knowledge and experience.
+- 🐱 I love cats and the color pink.
 
-
-
-- 💌 [Tu email o LinkedIn]
-
-<p align="center">🐾 Gracias por pasar por mi perfil 🐾</p>
+<p align="center">🐾 Thanks for visiting my profile 🐾</p>
