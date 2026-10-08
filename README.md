@@ -77,16 +77,5 @@ Estoy abierta a participar en cualquier proyecto: cada uno me suma conocimiento 
 <br>
 <br>
 
-<a id="contact"></a>
-<img src="./assets/header-contact.svg" alt="Contact" width="260" height="70">
-
-<br>
-
-Let's connect! / ¡Conectemos!
-
-- Email: [tu email]
-- LinkedIn: [tu LinkedIn]
-
-<br>
 
 <p align="center"><sub>Thanks for visiting my profile. / Gracias por pasar por mi perfil.</sub></p>
