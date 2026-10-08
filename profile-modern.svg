@@ -138,7 +138,6 @@
   <rect x="30" y="540" width="840" height="150" rx="20" fill="#fff" fill-opacity="0.05" stroke="#ff8fcb" stroke-opacity="0.25"/>
   <g class="row d7">
     <text x="54" y="570" class="lbl">ABOUT ME</text>
-    <text x="846" y="570" class="dim" text-anchor="end">github.com/tu-usuario</text>
     <text x="54" y="598" class="val">First-year Data Science student at Universidad Austral (Rosario).</text>
     <text x="54" y="622" class="val">Learning Python, R, HTML, CSS, JavaScript, Git and GitHub.</text>
     <text x="54" y="646" class="val">Into music, art and dance: I want to analyze what works behind the scenes.</text>
