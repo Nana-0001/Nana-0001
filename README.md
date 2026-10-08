@@ -83,7 +83,7 @@ Estoy abierta a participar en cualquier proyecto: cada uno me suma conocimiento 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nana-0001&show_icons=true&bg_color=fff0f7&title_color=d6408f&text_color=7a1f4d&icon_color=ff69b4&border_color=ffc2de&ring_color=ff69b4" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nana-0001&layout=compact&bg_color=fff0f7&title_color=d6408f&text_color=7a1f4d&icon_color=ff69b4&border_color=ffc2de&ring_color=ff69b4" alt="Most used languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nana-0001&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=fff0f7&title_color=d6408f&text_color=7a1f4d&icon_color=ff69b4&border_color=ffc2de&ring_color=ff69b4" alt="Most used languages">
 </p>
 
 <p align="center">
