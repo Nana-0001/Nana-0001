@@ -82,12 +82,12 @@ Estoy abierta a participar en cualquier proyecto: cada uno me suma conocimiento 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nana-0001&show_icons=true&bg_color=fff0f7&title_color=d6408f&text_color=7a1f4d&icon_color=ff69b4&border_color=ffc2de&ring_color=ff69b4" alt="GitHub stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nana-0001&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=fff0f7&title_color=d6408f&text_color=7a1f4d&icon_color=ff69b4&border_color=ffc2de&ring_color=ff69b4" alt="Most used languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nana-0001&show_icons=true&hide_border=false&border_color=1f2c47&border_radius=12&bg_color=0b101c&title_color=f8b4c8&text_color=ffffff&icon_color=f8b4c8&ring_color=f8b4c8" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nana-0001&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&hide_border=false&border_color=1f2c47&border_radius=12&bg_color=0b101c&title_color=f8b4c8&text_color=ffffff" alt="Most used languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nana-0001&background=fff0f7&border=ffc2de&stroke=ffc2de&ring=ff69b4&fire=ff69b4&currStreakNum=7a1f4d&currStreakLabel=d6408f&sideNums=7a1f4d&sideLabels=d6408f&dates=b0588a" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=Nana-0001&background=0b101c&border=1f2c47&stroke=1f2c47&border_radius=12&ring=f8b4c8&fire=f8b4c8&currStreakNum=ffffff&currStreakLabel=f8b4c8&sideNums=ffffff&sideLabels=f8b4c8&dates=c9d1d9" alt="GitHub streak">
 </p>
 
 <br>
@@ -105,6 +105,5 @@ Estoy abierta a participar en cualquier proyecto: cada uno me suma conocimiento 
 
 <br>
 <br>
-
 
 <p align="center"><sub>Thanks for visiting my profile. / Gracias por pasar por mi perfil.</sub></p>
