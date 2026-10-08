@@ -5,21 +5,20 @@
 <br>
 
 <p align="center">
-  <a href="#about-me"><img src="./assets/nav-about.svg" alt="About me"></a>
+  <a href="#about-me"><img src="./assets/nav-about.svg" alt="About me" width="132" height="46"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#sobre-mi"><img src="./assets/nav-sobre.svg" alt="Sobre mí"></a>
+  <a href="#sobre-mi"><img src="./assets/nav-sobre.svg" alt="Sobre mí" width="132" height="46"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#learning-journey"><img src="./assets/nav-learning.svg" alt="Learning"></a>
+  <a href="#learning-journey"><img src="./assets/nav-learning.svg" alt="Learning" width="132" height="46"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#goals"><img src="./assets/nav-goals.svg" alt="Goals"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#goals"><img src="./assets/nav-goals.svg" alt="Goals" width="112" height="46"></a>
 </p>
 
 <br>
 <br>
 
 <a id="about-me"></a>
-<img src="./assets/header-about.svg" alt="About me">
+<img src="./assets/header-about.svg" alt="About me" width="250" height="70">
 
 <br>
 
@@ -35,7 +34,7 @@ I'm open to joining any project: each one gives me more knowledge and experience
 <br>
 
 <a id="sobre-mi"></a>
-<img src="./assets/header-sobre.svg" alt="Sobre mí">
+<img src="./assets/header-sobre.svg" alt="Sobre mí" width="270" height="70">
 
 <br>
 
@@ -51,7 +50,7 @@ Estoy abierta a participar en cualquier proyecto: cada uno me suma conocimiento 
 <br>
 
 <a id="learning-journey"></a>
-<img src="./assets/header-learning.svg" alt="Learning journey">
+<img src="./assets/header-learning.svg" alt="Learning journey" width="360" height="70">
 
 <br>
 
@@ -65,8 +64,37 @@ Estoy abierta a participar en cualquier proyecto: cada uno me suma conocimiento 
 <br>
 <br>
 
+<a id="tech-stack"></a>
+<img src="./assets/header-stack.svg" alt="Tech stack" width="280" height="70">
+
+<br>
+
+<p align="center">
+  <img src="./assets/tech-stack.svg" alt="Tech stack: Python, R, JavaScript, HTML, CSS, VS Code, RStudio, Git and GitHub. Focus: Data Science at Universidad Austral." width="800">
+</p>
+
+<br>
+<br>
+
+<a id="stats"></a>
+<img src="./assets/header-stats.svg" alt="My stats" width="250" height="70">
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nana-0001&show_icons=true&bg_color=fff0f7&title_color=d6408f&text_color=7a1f4d&icon_color=ff69b4&border_color=ffc2de&ring_color=ff69b4" alt="GitHub stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nana-0001&layout=compact&bg_color=fff0f7&title_color=d6408f&text_color=7a1f4d&icon_color=ff69b4&border_color=ffc2de&ring_color=ff69b4" alt="Most used languages" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nana-0001&background=fff0f7&border=ffc2de&stroke=ffc2de&ring=ff69b4&fire=ff69b4&currStreakNum=7a1f4d&currStreakLabel=d6408f&sideNums=7a1f4d&sideLabels=d6408f&dates=b0588a" alt="GitHub streak">
+</p>
+
+<br>
+<br>
+
 <a id="goals"></a>
-<img src="./assets/header-goals.svg" alt="Goals">
+<img src="./assets/header-goals.svg" alt="Goals" width="220" height="70">
 
 <br>
 
