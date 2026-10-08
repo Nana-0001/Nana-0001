@@ -1,135 +1,147 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 690" width="100%" role="img" aria-label="Welcome to my profile. First-year Data Science student at Universidad Austral (Rosario). Learning Python, R, HTML, CSS, JavaScript, Git and GitHub. Into music, art and dance. Open to any project. Cat and pink lover." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5OGNiMDEzOC0zZjI0LTRjNzEtOTM4ZC04OGYwYzdhZGZlMzkAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaCTVTY7tWMNTrCUmhWPHz3AAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkM2M3OWQ0Ny1kZjEzLTQ5NzYtODg2MS0zNmI2M2IzMDAyOGNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoqOYEWjM6TzsYr+XQzJsQVgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggEW85qLJ45zUMUFwlPi/Ncw5imL8guwXwv6BYwIfZNTOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPxGjdk9hIO+GdSKeW7uGI8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIGePNGe4crTVZua3HuHUhs5ahTW27orXfDL0sLOINjacZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQF6Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjk4Y2IwMTM4LTNmMjQtNGM3MS05MzhkLTg4ZjBjN2FkZmUzOS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjg1ZjhmZjNmLTljNTctNDMwMy05ODg2LTZkNWQ4OTJjNmYyYnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCARbzmosnjnNQxQXCU+L81zDmKYvyC7BfC/oFjAh9k1M6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggKXEC2i5TJTvKHmDshormTNrWvr2EendJWtBGwaXe2xmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgga6cnOj5ajvqKZtK1WeIt+IIp9VFkF5HwQ9ckYlcRgKl0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJEcmC3T4qok4LBlJuqJMDZY4SBn0cfhtpFuDDl2Lw+1qk3XVvcmvZgn0yop1OXlDr2nR+ZDAEjBflJ9U4qIQQk=</c2pa:manifest></metadata>
-  <style>
-    text { font-family: 'Courier New', Courier, monospace; }
-    .lbl { fill: #ff8fcb; font-size: 13px; }
-    .val { fill: #ffe0f0; font-size: 14px; }
-    .dim { fill: #b0588a; font-size: 12px; }
-    .tag { fill: #ff69b4; font-size: 13px; font-weight: bold; }
-    .cat { fill: #ff9bd2; font-size: 18px; white-space: pre; }
-    .title { fill: #ff8fcb; font-size: 44px; font-weight: bold; }
-    .sub { fill: #ffc2e2; font-size: 14px; }
 
-    .typer { animation: type 18s steps(21) infinite; }
-    @keyframes type { 0% { width: 0; } 18% { width: 560px; } 92% { width: 560px; } 98%, 100% { width: 0; } }
-    .cursor { animation: move 18s steps(21) infinite, blink 0.9s steps(1) infinite; }
-    @keyframes move { 0% { transform: translateX(0); } 18% { transform: translateX(554px); } 92% { transform: translateX(554px); } 98%, 100% { transform: translateX(0); } }
-    @keyframes blink { 50% { opacity: 0; } }
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" width="100%" role="img" aria-label="Welcome to my profile. First-year Data Science student at Universidad Austral (Rosario). Learning Python, R, HTML, CSS, JavaScript, Git and GitHub. Into music, art and dance. Open to any project. Cat and pink lover." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowOTc3MjQ1ZC0yNTE5LTRhZDQtOTJlYi04ZTU4YjY5MGRlYWMAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaC2BbIwxZrJfi0BXKZ8oj5oAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplNjhiOTEyNC1lOTZlLTQwMTUtOWRiYS1iYmM5N2RlMmU4MjdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoswLawgoEWFdDUVPFf1RgnAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg3tihd7dW4zoItVap9IGJ+5aaaKjyaR/ZiBVJy2p0nNykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLZ5tmHIFrve1oBQZVUqouAAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIAYN+7+DgaaVHHRtoMUbE12UAakMYp0Oo6N4b0ciBQrmZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQF6Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjA5NzcyNDVkLTI1MTktNGFkNC05MmViLThlNThiNjkwZGVhYy9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjc2ZTU4MjgyLTYwYTYtNGQyNS04MDU0LWUwODhkZmE3NzkyM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDe2KF3t1bjOgi1Vqn0gYn7lppoqPJpH9mIFUnLanSc3KJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg5CRvwLUfApQhKqjQivU8nbd/2knUy5WK8GH4dwUEkG2iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggLuRP+bDBTO2p090N6KuLbApn+vSRai29eXJ0cWCddwN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQBUwKIzDN9e9RoTQJzMQQyreqpx+nk2h6s53tH+BZit1stsYKXPdrxvJX6yhYwDEV+P+Wlb6213VbAlAfvtbcIM=</c2pa:manifest></metadata>
+  <style>
+    text { font-family: 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .lbl { fill: #ff8fcb; font-size: 11px; letter-spacing: 2px; font-weight: 600; opacity: 0.8; }
+    .val { fill: #fff0f8; font-size: 15px; }
+    .big { fill: #fff0f8; font-size: 22px; font-weight: 700; }
+    .dim { fill: #d58ab5; font-size: 13px; }
+    .title { font-size: 46px; font-weight: 800; }
+    .sub { fill: #f3b6d6; font-size: 16px; }
+    .chip { fill: #ff69b4; fill-opacity: 0.14; stroke: #ff69b4; stroke-opacity: 0.55; }
+    .chipt { fill: #ffd6ea; font-size: 12.5px; font-weight: 600; text-anchor: middle; }
+
+    .wipe { animation: wipe 18s cubic-bezier(.2,.8,.2,1) infinite; }
+    @keyframes wipe { 0% { width: 0; } 16% { width: 820px; } 92% { width: 820px; } 98%, 100% { width: 0; } }
 
     .row { opacity: 0; animation: show 18s infinite both; }
     @keyframes show {
-      0% { opacity: 0; transform: translateX(-10px); }
-      3% { opacity: 1; transform: translateX(0); }
-      92% { opacity: 1; transform: translateX(0); }
+      0%   { opacity: 0; transform: translateY(12px); }
+      3%   { opacity: 1; transform: translateY(0); }
+      92%  { opacity: 1; transform: translateY(0); }
       97%, 100% { opacity: 0; }
     }
-    .d0 { animation-delay: 3.4s; } .d1 { animation-delay: 4.0s; } .d2 { animation-delay: 4.6s; }
-    .d3 { animation-delay: 5.2s; } .d4 { animation-delay: 5.8s; } .d5 { animation-delay: 6.4s; }
-    .d6 { animation-delay: 7.0s; } .d7 { animation-delay: 7.6s; } .d8 { animation-delay: 8.4s; }
-    .d9 { animation-delay: 9.0s; } .d10 { animation-delay: 9.6s; } .d11 { animation-delay: 10.2s; }
+    .d0 { animation-delay: 2.6s; } .d1 { animation-delay: 3.2s; } .d2 { animation-delay: 3.8s; }
+    .d3 { animation-delay: 4.2s; } .d4 { animation-delay: 4.8s; } .d5 { animation-delay: 5.4s; }
+    .d6 { animation-delay: 6.0s; } .d7 { animation-delay: 6.8s; }
 
-    .scan { animation: sweep 18s linear infinite; opacity: 0; }
-    @keyframes sweep {
-      0%, 18% { transform: translateY(0); opacity: 0; }
-      21% { opacity: 0.8; }
-      55% { transform: translateY(500px); opacity: 0.8; }
-      58%, 100% { transform: translateY(500px); opacity: 0; }
-    }
+    .pulse { animation: pulse 1.6s ease-in-out infinite; }
+    @keyframes pulse { 50% { opacity: 0.25; } }
     @media (prefers-reduced-motion: reduce) {
-      .typer { animation: none; width: 560px; }
+      .wipe { animation: none; width: 820px; }
       .row { animation: none; opacity: 1; }
-      .cursor, .scan { animation: none; opacity: 0; }
+      .pulse { animation: none; }
     }
   </style>
 
   <defs>
-    <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="1.6" fill="#ff69b4"/></pattern>
-    <pattern id="catdots" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="4" cy="4" r="2.8" fill="#ff8fcb"/></pattern>
-    <mask id="catmask" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="690">
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14070f"/><stop offset="1" stop-color="#2b0f27"/>
+    </linearGradient>
+    <linearGradient id="grad" gradientUnits="userSpaceOnUse" x1="50" y1="0" x2="700" y2="0">
+      <stop offset="0" stop-color="#ffd0e8"/><stop offset="0.55" stop-color="#ff69b4"/><stop offset="1" stop-color="#ff3d9a"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff8fcb" stop-opacity="0.8"/><stop offset="1" stop-color="#ff3d9a" stop-opacity="0.2"/>
+    </linearGradient>
+    <radialGradient id="blob"><stop offset="0" stop-color="#ff3d9a" stop-opacity="0.35"/><stop offset="1" stop-color="#ff3d9a" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.2" fill="#ff69b4"/></pattern>
+    <pattern id="pA" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.9" fill="#ff3d9a"/></pattern>
+    <pattern id="pB" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2.3" fill="#ff69b4"/></pattern>
+    <pattern id="pC" width="6" height="6" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="2.1" fill="#ffc2e2"/></pattern>
+    <mask id="mB" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="720">
       <g fill="#fff">
-        <ellipse cx="195" cy="280" rx="58" ry="46"/>
-        <polygon points="145,270 150,205 188,240"/>
-        <polygon points="245,270 240,205 202,240"/>
-        <ellipse cx="195" cy="368" rx="68" ry="52"/>
+        <path d="M125 300 C 122 212, 268 212, 265 300 C 245 312, 225 304, 195 314 C 165 304, 145 312, 125 300 Z"/>
+        <g transform="translate(95,185) rotate(30) scale(.6)"><rect x="-24" y="0" width="48" height="11" rx="5.5"/><path d="M-9 8 C -11 40 -7 70 -2 96 L 0 102 L 2 96 C 7 70 11 40 9 8 Z"/><path d="M9 40 L 26 62 L 8 58 Z"/><path d="M-9 40 L -26 62 L -8 58 Z"/><path d="M0 90 L -16 116 L 0 106 L 16 116 Z"/></g>
+        <g transform="translate(340,375) rotate(30) scale(.6)"><rect x="-24" y="0" width="48" height="11" rx="5.5"/><path d="M-9 8 C -11 40 -7 70 -2 96 L 0 102 L 2 96 C 7 70 11 40 9 8 Z"/><path d="M9 40 L 26 62 L 8 58 Z"/><path d="M-9 40 L -26 62 L -8 58 Z"/><path d="M0 90 L -16 116 L 0 106 L 16 116 Z"/></g>
       </g>
-      <path d="M258 390 C 300 388 308 340 288 318" fill="none" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
-      <g fill="#000">
-        <ellipse cx="176" cy="278" rx="7" ry="10"/>
-        <ellipse cx="214" cy="278" rx="7" ry="10"/>
-        <polygon points="190,296 200,296 195,303"/>
+      <path d="M195 310 C 183 335, 207 355, 195 392" fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round"/>
+    </mask>
+    <mask id="mC" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="720">
+      <g fill="#fff">
+        <ellipse cx="168" cy="248" rx="34" ry="13" transform="rotate(-14 168 248)"/>
+        <ellipse cx="228" cy="262" rx="14" ry="6" transform="rotate(10 228 262)"/>
+        <polygon points="310.0,191.0 316.8,205.7 332.8,207.6 321.0,218.6 324.1,234.4 310.0,226.5 295.9,234.4 299.0,218.6 287.2,207.6 303.2,205.7" stroke-linejoin="round"/><polygon points="78.0,310.0 83.6,322.2 97.0,323.8 87.1,333.0 89.8,346.2 78.0,339.6 66.2,346.2 68.9,333.0 59.0,323.8 72.4,322.2" stroke-linejoin="round"/><polygon points="318.0,303.0 322.2,312.2 332.3,313.4 324.8,320.2 326.8,330.1 318.0,325.2 309.2,330.1 311.2,320.2 303.7,313.4 313.8,312.2" stroke-linejoin="round"/><polygon points="75.0,406.0 82.3,421.9 99.7,424.0 86.9,435.9 90.3,453.0 75.0,444.5 59.7,453.0 63.1,435.9 50.3,424.0 67.7,421.9" stroke-linejoin="round"/>
       </g>
-      <g stroke="#000" stroke-width="2.5" stroke-linecap="round">
-        <line x1="147" y1="293" x2="168" y2="296"/><line x1="149" y1="303" x2="169" y2="301"/>
-        <line x1="243" y1="293" x2="222" y2="296"/><line x1="241" y1="303" x2="221" y2="301"/>
+      <path d="M192 316 C 182 338, 204 355, 193 384" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+    </mask>
+    <mask id="mA" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="720">
+      <g fill="none" stroke="#fff" stroke-linecap="round">
+        <path d="M125 300 C 122 212, 268 212, 265 300 C 245 312, 225 304, 195 314 C 165 304, 145 312, 125 300 Z" stroke-width="5"/>
+        <g stroke-width="5">
+          <path d="M140 303 C 125 335, 150 360, 135 400"/><path d="M158 308 C 148 345, 172 370, 160 420"/>
+          <path d="M232 308 C 242 345, 218 370, 230 420"/><path d="M250 303 C 265 335, 240 360, 255 400"/>
+          <path d="M178 312 C 172 350, 190 380, 180 432"/><path d="M212 312 C 220 350, 202 380, 212 432"/>
+        </g>
+        <g stroke-width="3.5">
+          <path d="M55 250 C 45 265, 65 280, 55 296"/><path d="M345 252 C 335 267, 355 282, 345 298"/>
+          <circle cx="118" cy="188" r="6"/><circle cx="280" cy="262" r="7"/><circle cx="108" cy="385" r="6"/>
+          <circle cx="262" cy="398" r="7"/><circle cx="250" cy="190" r="5"/><circle cx="55" cy="365" r="5"/>
+        </g>
       </g>
     </mask>
-    <clipPath id="orb"><circle cx="195" cy="320" r="125"/></clipPath>
-    <clipPath id="reveal"><rect class="typer" x="173" y="50" width="560" height="62"/></clipPath>
-    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ff69b4" stop-opacity="0"/>
-      <stop offset="1" stop-color="#ff69b4" stop-opacity="0.45"/>
-    </linearGradient>
+    <clipPath id="orb"><circle cx="195" cy="325" r="140"/></clipPath>
+    <clipPath id="reveal"><rect class="wipe" x="50" y="60" width="820" height="66"/></clipPath>
   </defs>
 
-  <!-- ventana -->
-  <rect x="2" y="2" width="896" height="686" rx="18" fill="#1b0d17" stroke="#ff69b4" stroke-width="2"/>
-  <circle cx="30" cy="28" r="6" fill="#ff5fa2"/>
-  <circle cx="50" cy="28" r="6" fill="#ffb3d9"/>
-  <circle cx="70" cy="28" r="6" fill="#ff85c0"/>
+  <!-- fondo -->
+  <rect width="900" height="720" rx="24" fill="url(#bg)"/>
+  <circle cx="120" cy="60" r="260" fill="url(#blob)"/>
+  <circle cx="800" cy="680" r="300" fill="url(#blob)"/>
+  <rect x="1" y="1" width="898" height="718" rx="23" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
 
-  <!-- bienvenida -->
-  <text x="173" y="97" class="title" clip-path="url(#reveal)">Welcome to my profile</text>
-  <rect class="cursor" x="173" y="61" width="14" height="42" fill="#ff69b4"/>
-  <g class="row d0"><text x="450" y="132" text-anchor="middle" class="sub">&gt; scan complete: data science student | cat lover | pink fan</text></g>
-  <line x1="30" y1="148" x2="870" y2="148" stroke="#ff69b4" stroke-opacity="0.4" stroke-dasharray="4 6"/>
+  <!-- encabezado -->
+  <rect x="50" y="26" width="168" height="26" rx="13" fill="#ff69b4" fill-opacity="0.14" stroke="#ff69b4" stroke-opacity="0.5"/>
+  <circle class="pulse" cx="66" cy="39" r="4" fill="#ff69b4"/>
+  <text x="78" y="43.5" style="fill:#ffd0e8;font-size:12px;font-weight:600">open to projects</text>
+  <text x="50" y="110" class="title" fill="url(#grad)" clip-path="url(#reveal)">Welcome to my profile</text>
+  <g class="row d0"><text x="50" y="146" class="sub">Data Science student · Universidad Austral (Rosario)</text></g>
 
-  <!-- panel izquierdo -->
-  <rect x="30" y="160" width="330" height="330" rx="10" fill="#240f1e" stroke="#ff69b4" stroke-opacity="0.7"/>
-  <text x="46" y="184" class="tag">visual.map</text>
-  <g clip-path="url(#orb)"><rect x="70" y="195" width="250" height="250" fill="url(#dots)" opacity="0.28"/></g>
+  <!-- tarjeta izquierda -->
+  <rect x="30" y="170" width="330" height="350" rx="20" fill="#fff" fill-opacity="0.05" stroke="#ff8fcb" stroke-opacity="0.25"/>
+  <g clip-path="url(#orb)"><rect x="50" y="180" width="290" height="290" fill="url(#dots)" opacity="0.25"/></g>
   <g class="row d1">
-    <rect x="115" y="195" width="200" height="235" fill="url(#catdots)" mask="url(#catmask)"/>
+    <rect x="40" y="175" width="310" height="300" fill="url(#pB)" mask="url(#mB)"/>
+    <rect x="40" y="175" width="310" height="300" fill="url(#pC)" mask="url(#mC)"/>
+    <rect x="40" y="175" width="310" height="300" fill="url(#pA)" mask="url(#mA)"/>
   </g>
   <g class="row d2">
-    <text x="60" y="446" class="dim">&gt; cat_detected: true</text>
-    <text x="60" y="463" class="dim">&gt; favorite_color: #ff69b4</text>
-    <text x="60" y="480" class="dim">&gt; cuteness_level: 100%</text>
+    <rect x="95" y="480" width="200" height="28" rx="14" class="chip"/>
+    <text x="195" y="498.5" class="chipt">cat lover · pink fan</text>
   </g>
 
-  <!-- panel derecho -->
-  <rect x="380" y="160" width="490" height="330" rx="10" fill="#240f1e" stroke="#ff69b4" stroke-opacity="0.7"/>
-  <text x="396" y="184" class="tag">profile.scan</text>
-  <text x="854" y="184" text-anchor="end" class="dim">● live</text>
-  <g class="row d3"><text x="400" y="222" class="lbl">Subject</text><text x="510" y="222" class="val">Ana Gómez</text></g>
-  <g class="row d4"><text x="400" y="254" class="lbl">Role</text><text x="510" y="254" class="val">Data Science student</text></g>
+  <!-- tarjeta derecha -->
+  <rect x="380" y="170" width="490" height="350" rx="20" fill="#fff" fill-opacity="0.05" stroke="#ff8fcb" stroke-opacity="0.25"/>
+  <g class="row d3"><text x="400" y="204" class="lbl">NAME</text><text x="400" y="230" class="big">Ana Gómez</text></g>
+  <g class="row d4">
+    <text x="400" y="266" class="lbl">STUDYING</text>
+    <text x="400" y="288" class="val">BSc Data Science · 1st year</text>
+    <text x="400" y="306" class="dim">Universidad Austral (Rosario)</text>
+  </g>
   <g class="row d5">
-    <text x="400" y="286" class="lbl">Studies</text>
-    <text x="510" y="286" class="val">1st year · BSc Data Science</text>
-    <text x="510" y="305" class="val">Universidad Austral (Rosario)</text>
+    <text x="400" y="340" class="lbl">LEARNING</text>
+    <rect x="400" y="350" width="70" height="26" rx="13" class="chip"/><text x="435" y="367" class="chipt">Python</text>
+    <rect x="478" y="350" width="40" height="26" rx="13" class="chip"/><text x="498" y="367" class="chipt">R</text>
+    <rect x="526" y="350" width="58" height="26" rx="13" class="chip"/><text x="555" y="367" class="chipt">HTML</text>
+    <rect x="592" y="350" width="52" height="26" rx="13" class="chip"/><text x="618" y="367" class="chipt">CSS</text>
+    <rect x="652" y="350" width="100" height="26" rx="13" class="chip"/><text x="702" y="367" class="chipt">JavaScript</text>
+    <rect x="400" y="384" width="50" height="26" rx="13" class="chip"/><text x="425" y="401" class="chipt">Git</text>
+    <rect x="458" y="384" width="72" height="26" rx="13" class="chip"/><text x="494" y="401" class="chipt">GitHub</text>
   </g>
-  <g class="row d6"><text x="400" y="337" class="lbl">Status</text><text x="510" y="337" class="val">Learning | Exploring | Building</text></g>
-  <g class="row d7">
-    <text x="400" y="369" class="lbl">Languages</text>
-    <text x="510" y="369" class="val">Python, R, HTML, CSS,</text>
-    <text x="510" y="388" class="val">JavaScript, Git and GitHub</text>
-  </g>
-  <g class="row d8">
-    <text x="400" y="420" class="lbl">Interests</text>
-    <text x="510" y="420" class="val">Music, art and dance</text>
-    <text x="510" y="439" class="val">seen through data</text>
+  <g class="row d6">
+    <text x="400" y="446" class="lbl">INTERESTS</text>
+    <text x="400" y="468" class="val">Music · Art · Dance</text>
+    <text x="400" y="486" class="dim">explored through data</text>
   </g>
 
   <!-- about me -->
-  <rect x="30" y="505" width="840" height="160" rx="10" fill="#240f1e" stroke="#ff69b4" stroke-opacity="0.7"/>
-  <text x="46" y="529" class="tag">about.me</text>
-  <g class="row d10">
-    <text x="50" y="558" class="val">&gt; First-year Data Science student at Universidad Austral (Rosario).</text>
-    <text x="50" y="584" class="val">&gt; Learning Python, R, HTML, CSS, JavaScript, Git and GitHub.</text>
+  <rect x="30" y="540" width="840" height="150" rx="20" fill="#fff" fill-opacity="0.05" stroke="#ff8fcb" stroke-opacity="0.25"/>
+  <g class="row d7">
+    <text x="54" y="570" class="lbl">ABOUT ME</text>
+    <text x="846" y="570" class="dim" text-anchor="end">github.com/tu-usuario</text>
+    <text x="54" y="598" class="val">First-year Data Science student at Universidad Austral (Rosario).</text>
+    <text x="54" y="622" class="val">Learning Python, R, HTML, CSS, JavaScript, Git and GitHub.</text>
+    <text x="54" y="646" class="val">Into music, art and dance: I want to analyze what works behind the scenes.</text>
+    <text x="54" y="670" class="val">Open to joining any project. I love cats and the color pink.</text>
   </g>
-  <g class="row d11">
-    <text x="50" y="610" class="val">&gt; Into music, art and dance: I want to analyze what works behind the scenes.</text>
-    <text x="50" y="636" class="val">&gt; Open to joining any project. I love cats and the color pink.</text>
-  </g>
-
-  <!-- línea de escaneo -->
-  <rect class="scan" x="34" y="154" width="832" height="26" fill="url(#beam)"/>
 </svg>
