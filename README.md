@@ -1,5 +1,6 @@
 <p align="center"> <img src="./profile-modern.svg" alt="Welcome to my profile. Data Science student, Universidad Austral (Rosario)." width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/R-ff85c0?style=for-the-badge&logo=r&logoColor=white" alt="R"> <img src="https://img.shields.io/badge/HTML-ffa6d2?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"> <img src="https://img.shields.io/badge/CSS-ff69b4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-ff85c0?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Git-ffa6d2?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </p>
 
+
 ## 🎀 About me
 
 - 🎓 I'm a **first-year** student in the Data Science Bachelor's program at **Universidad Austral (Rosario)**.
